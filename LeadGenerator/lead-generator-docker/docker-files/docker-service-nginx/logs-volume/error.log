@@ -1,0 +1,42 @@
+2021/04/14 06:36:41 [error] 7#7: *1 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.25.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:9601", referrer: "http://localhost:9601/"
+2021/04/14 06:40:34 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:21
+2021/04/14 06:40:35 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:21
+2021/04/14 06:40:37 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:21
+2021/04/14 06:40:38 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:21
+2021/04/14 06:40:40 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:21
+2021/04/14 06:40:43 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:21
+2021/04/14 06:40:47 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:21
+2021/04/14 06:40:54 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:21
+2021/04/14 06:41:08 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:21
+2021/04/14 06:41:35 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:21
+2021/04/14 06:42:27 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:21
+2021/04/14 06:43:02 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:17
+2021/04/14 06:43:03 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:17
+2021/04/14 06:43:05 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:17
+2021/04/14 06:43:06 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:17
+2021/04/14 06:43:08 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:17
+2021/04/14 06:43:11 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:17
+2021/04/14 06:43:15 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:17
+2021/04/14 06:43:22 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:17
+2021/04/14 06:44:20 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:17
+2021/04/14 06:44:30 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:17
+2021/04/14 06:44:32 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:17
+2021/04/14 06:44:33 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:17
+2021/04/14 06:44:35 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:17
+2021/04/14 06:44:37 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:17
+2021/04/14 06:44:41 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:17
+2021/04/14 06:44:49 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:17
+2021/04/14 06:45:03 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:17
+2021/04/14 06:45:29 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:17
+2021/04/14 06:46:21 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:17
+2021/04/14 06:47:22 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:17
+2021/04/14 06:48:23 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:17
+2021/04/14 06:49:24 [emerg] 1#1: host not found in upstream "baum-bon-docker-service-php" in /etc/nginx/conf.d/lead-generator.localhost.conf:17
+2021/04/14 06:52:27 [error] 8#8: *1 open() "/var/www/lead-generator/favicon.ico" failed (2: No such file or directory), client: 172.25.0.1, server: lead-generator.localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:9601", referrer: "http://localhost:9601/"
+2021/04/14 08:55:27 [error] 6#6: *1 open() "/var/www/lead-generator/favicon.ico" failed (2: No such file or directory), client: 172.25.0.1, server: lead-generator.localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:9601", referrer: "http://localhost:9601/"
+2021/04/14 09:04:27 [error] 6#6: *13 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.25.0.1, server: lead-generator.localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.3:9000", host: "localhost:9601"
+2021/04/14 09:07:17 [error] 6#6: *17 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.25.0.1, server: lead-generator.localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.3:9000", host: "localhost:9601"
+2021/04/14 09:21:23 [error] 6#6: *20 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.25.0.1, server: lead-generator.localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.3:9000", host: "localhost:9601"
+2021/04/14 09:28:49 [error] 8#8: *1 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.25.0.1, server: lead-generator.localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "localhost:9601"
+2021/04/14 10:01:32 [error] 7#7: *1 recv() failed (104: Connection reset by peer) while reading response header from upstream, client: 172.25.0.1, server: lead-generator.localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "localhost:9601"
+2021/04/15 06:35:59 [error] 7#7: *1 open() "/var/www/lead-generator/favicon.ico" failed (2: No such file or directory), client: 172.25.0.1, server: lead-generator.localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:9601", referrer: "http://localhost:9601/"

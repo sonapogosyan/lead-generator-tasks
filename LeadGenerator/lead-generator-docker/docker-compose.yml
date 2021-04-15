@@ -1,0 +1,27 @@
+# compose file version 3 reference - https://docs.docker.com/compose/compose-file/
+version: '3.7'
+services:
+
+  ############################################################################################
+  lead-generator-docker-service-nginx:
+    container_name: lead_generator_cont_nginx
+    image: nginx:latest
+    ports:
+      - 9601:80
+      - 9602:80
+    restart: always
+    volumes:
+      - ./../lead-generator:/var/www/lead-generator
+      - ./docker-files/docker-service-nginx/home-volume:/home
+      - ./docker-files/docker-service-nginx/hosts-volume:/etc/nginx/conf.d
+      - ./docker-files/docker-service-nginx/logs-volume:/var/log/nginx
+    links:
+      - lead-generator-docker-service-php
+
+  ############################################################################################
+  lead-generator-docker-service-php:
+    container_name: lead_generator_cont_php
+    build: ./docker-build-context/docker-service-php
+    restart: always
+    volumes:
+      - ./../lead-generator:/var/www/lead-generator
