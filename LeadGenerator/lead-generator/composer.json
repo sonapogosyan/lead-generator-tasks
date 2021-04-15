@@ -1,0 +1,20 @@
+{
+    "name": "vladimir163/lead-generator",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Vladimir Samuylov",
+            "email": "vladimir@samujlov.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7",
+        "ext-pcntl": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "LeadGenerator\\": "src/"
+        }
+    }
+}
